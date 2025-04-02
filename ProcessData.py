@@ -1,7 +1,7 @@
 #ProcessData.py
-#Name:
-#Date:
-#Assignment:
+#Name:Eduardo Esau Hernandez Abreo
+#Date:04/02/2025
+#Assignment:lab 8 
 
 def makeID(first, last, num):
   if len(last) < 5:
